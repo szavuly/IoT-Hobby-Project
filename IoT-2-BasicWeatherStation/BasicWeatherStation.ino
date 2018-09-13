@@ -2,7 +2,7 @@
   IoT Hobby Project 1
   -for science, you monster-
   
-  Blink: turns an LED on for half second, then off for half second, repeatedly.
+  Blink: turns an LED on for half second, then off for half second, repeatedly
   Basic Weather Station: Measures light, humidity and pressure
 
   Based on Weather Shield Example by: Nathan Seidle, SparkFun Electronics
